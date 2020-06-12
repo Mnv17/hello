@@ -1,6 +1,12 @@
+<center style = "font-size:32">
 welcome to my page
-bitches...
+</center>
 <br />
+<br />
+
+<a href = "page2.html">
+  Hello
+</a>
 
 <pre>
 <?php 
